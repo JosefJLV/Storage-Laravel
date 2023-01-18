@@ -60,6 +60,8 @@ Brands
                         </div>
                     </div>
                   </div>
+                  <ul><li>Salam</li>
+                  <li>Salam1</li></ul>
   <div class="col-md-12 mt-1 mb-2"><button type="button" id="addNewBook" class="btn btn-success">Add</button></div>
 
   <div class="card">
@@ -111,7 +113,6 @@ Brands
                         alt="preview image" style="max-height: 250px;">
                 </div>
               </div>
-
               <div class="col-sm-offset-2 col-sm-10">
                 <button type="submit" class="btn btn-primary" id="btn-save" value="addNewBook">Add Brand
                 </button>
